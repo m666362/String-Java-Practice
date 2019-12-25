@@ -11,6 +11,8 @@ public class MyClass {
         System.out.println("");
 
         System.out.println("Programme started");
+        String string = "abc".substring( 1, 2 );
+        System.out.println(string);
 
         System.out.println("");
         System.out.println(dot+end+dot);
